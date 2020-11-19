@@ -1,0 +1,4 @@
+pyserial
+gpiod
+paho-mqtt
+transitions
